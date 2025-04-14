@@ -1,4 +1,4 @@
-<img src="https://icons8.com/icon/J2AwyRUPwjyg/ps-controller" width="30"/> GitHub
+<img src="https://img.icons8.com/?size=100&id=11907&format=png&color=000000" width="30"/> GitHub
 
 # Demo
 
